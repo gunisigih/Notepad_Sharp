@@ -1,0 +1,50 @@
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe.config
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmHakkinda.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmNote.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.Properties.Resources.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.csproj.GenerateResource.Cache
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmMain.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.pdb
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe.config
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.pdb
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmHakkinda.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmMain.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmNote.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.Properties.Resources.resources
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.csproj.GenerateResource.cache
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.csproj.CoreCompileInputs.cache
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.exe
+E:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe.config
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\bin\Debug\NotepadSharp.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmHakkinda.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmMain.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.FrmNote.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.Properties.Resources.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.csproj.GenerateResource.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\5\NotepadSharp\obj\Debug\NotepadSharp.pdb
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.csprojAssemblyReference.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.FrmHakkinda.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.FrmMain.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.FrmNote.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.Properties.Resources.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.csproj.GenerateResource.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.exe
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\obj\Debug\NotepadSharp.pdb
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\bin\Debug\NotepadSharp.exe.config
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\bin\Debug\NotepadSharp.exe
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\NotepadSharp\bin\Debug\NotepadSharp.pdb
+C:\Users\gunis\Desktop\NotepadSharp\obj\Debug\NotepadSharp.csprojAssemblyReference.cache
+C:\Users\gunis\Desktop\NotepadSharp\obj\Debug\NotepadSharp.exe
+C:\Users\gunis\Desktop\NotepadSharp\obj\Debug\NotepadSharp.pdb
